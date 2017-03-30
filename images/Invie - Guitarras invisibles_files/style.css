@@ -1,0 +1,84 @@
+/*
+Estilos css invie
+*/
+
+body{
+		font-family: 'Allerta', sans-serif;
+
+}
+
+.titulo{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 70px;
+	margin-bottom: 0;
+	margin-top: 70px;
+}
+
+.title-a{
+	font-size: 24px;
+	margin-top: 0;
+}
+.guitarras {
+	color: #1f313c;
+}
+
+.guitarras h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 35px;
+}
+
+.title-b{
+	font-size: 50px;
+	margin-bottom: 20px;
+}
+
+.portada{
+	background-image: url(../images/background.png);
+	color: white;
+	padding: 20px;
+
+}
+.portada button{
+	margin-bottom: 70px;
+}
+.logotipo{
+	display: inline-block;
+}
+.menu {
+	font-size: 24px;
+	display: inline-block;
+	float: right;
+}
+
+.menu li {
+	display: inline-block;
+	margin-left: 30px
+}
+
+.contenedor{
+	width: 800px;
+	margin: auto;
+}
+
+.guitarra{
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid #1f313c;
+	position: relative;
+}
+
+.derecha{
+	float: right;
+	position: relative;
+	top: -100px;
+}
+
+.izquierda {
+	float: left;
+}
+.contenedor-guitarra-a{
+	margin-left: : 20px;
+}
+.contenedor-guitarra-b{
+	margin-left: 370px;
+}
